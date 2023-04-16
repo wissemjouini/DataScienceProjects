@@ -4,13 +4,13 @@ This project is a virtual keyboard that can be controlled using hand gestures. T
 ## Installation
 To run this project, you will need the following libraries:
 
-cv2
-cvzone
-pynput
+- cv2
+- cvzone
+- pynput
 You can install these libraries using pip:
-pip install opencv-python
-pip install cvzone
-pip install pynput
+- pip install opencv-python
+- pip install cvzone
+- pip install pynput
 
 ## Usage
 To use the virtual keyboard, run the virtual_keyboard.py file. A window will open showing the virtual keyboard. Move your hand over the keyboard and touch the keys you want to press with your index finger. The selected keys will be highlighted in green, and the text you type will appear in the text area at the bottom of the screen.
