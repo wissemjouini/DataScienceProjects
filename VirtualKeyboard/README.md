@@ -7,7 +7,7 @@ To run this project, you will need the following libraries:
 - cv2
 - cvzone
 - pynput
-You can install these libraries using pip:
+### You can install these libraries using pip:
 - pip install opencv-python
 - pip install cvzone
 - pip install pynput
